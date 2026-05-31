@@ -11,11 +11,6 @@ This project implements an **Agentic Retrieval-Augmented Generation (RAG)** syst
 > Traditional RAG is passive. Agentic RAG actively decides: “Should I search, rewrite, or just answer directly?”
 
 ---
-**Check out the video by clicking this :**
-
-[![Watch the video](https://github.com/user-attachments/assets/6148c0c4-d783-4186-9661-c7bb62bfa2a7)](https://youtu.be/qC96fPyvYWA)
-
----
 ## 📌 Features
 
 - 🧠 LangGraph-based agent with branching logic  
@@ -24,11 +19,6 @@ This project implements an **Agentic Retrieval-Augmented Generation (RAG)** syst
 - 🧾 Final response generation with or without context  
 - ⚡ FastAPI-based API with simple HTML chatbot UI  
 - 📂 Local FAISS vectorstore with HuggingFace embeddings
-
----
-Want a deeper understanding of how Agentic RAG works behind the scenes?
-
-👉 Read the full blog here: [Implementing Agentic RAG using LangGraph, Groq & FastAPI](https://pub.towardsai.net/implementing-agentic-rag-using-langgraph-groq-fastapi-e35dacb89548)
 
 ---
 ## 📂 Project Structure
