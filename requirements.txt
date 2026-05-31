@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-groq
+langchain-huggingface
+langchain-community
+faiss-cpu
+beautifulsoup4
+tiktoken
+sentence-transformers
+python-dotenv
